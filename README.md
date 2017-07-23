@@ -20,7 +20,7 @@ Caltech Pedestrian Dataset Converter
    ```Shell
    $ bash shells/download.sh
    ```
-   - If you want download ***in parallel***, run `$ bash shells/download_parallel.sh` instead.
+   - If you want to download ***in parallel***, run `$ bash shells/download_parallel.sh` instead.
 
 - Convert annotation files to one unified JSON file (`${PATH_TO_CALTECH}/annotations.json`):
     ```Shell
