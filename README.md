@@ -1,4 +1,4 @@
-altech Pedestrian Dataset Converter
+Caltech Pedestrian Dataset Converter
 ============================
 
 ## Requirements
